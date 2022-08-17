@@ -1,0 +1,30 @@
+# ░█████╗░██████╗░░█████╗░██████╗░  ███╗░░░███╗░█████╗░███╗░░██╗░█████╗░░██████╗░███████╗██████╗░
+# ██╔══██╗██╔══██╗██╔══██╗██╔══██╗  ████╗░████║██╔══██╗████╗░██║██╔══██╗██╔════╝░██╔════╝██╔══██╗
+# ██║░░╚═╝██████╔╝██║░░██║██████╔╝  ██╔████╔██║███████║██╔██╗██║███████║██║░░██╗░█████╗░░██████╔╝
+# ██║░░██╗██╔══██╗██║░░██║██╔═══╝░  ██║╚██╔╝██║██╔══██║██║╚████║██╔══██║██║░░╚██╗██╔══╝░░██╔══██╗
+# ╚█████╔╝██║░░██║╚█████╔╝██║░░░░░  ██║░╚═╝░██║██║░░██║██║░╚███║██║░░██║╚██████╔╝███████╗██║░░██║
+# ░╚════╝░╚═╝░░╚═╝░╚════╝░╚═╝░░░░░  ╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝░╚═════╝░╚══════╝╚═╝░░╚═╝
+#            ( Made by: Mackenzie Molloy#1821 ~ mackenziemolloy.net/discord )
+
+Crops:
+  WHEAT:
+    Organic:
+      Name: "&aCool Wheat"
+      Lore:
+        - "&7Organic"
+    Inorganic:
+      Name: "&cNot too cool Wheat"
+      Lore:
+        - "&7Inorganic"
+  CARROT:
+    Organic:
+      Name: "&dCool Carrot"
+      Lore:
+        - "&7Organic"
+    Inorganic:
+      Name: "&dNot too cool carrot"
+      Lore:
+        - "&7Inorganic"
+Messages:
+  ConfigReloaded: "&aConfig has been reloaded."
+  NoPermission: "&cYou do not have permission"

@@ -1,0 +1,10 @@
+name: CropManager
+main: net.mackenziemolloy.cropmanager.CropManager
+author: Mackenzie Molloy
+website: "https://mackenziemolloy.net/"
+version: 1.0
+api-version: 1.19
+commands:
+  cropmanager:
+    aliases: [cropm,cmanager,cm]
+    description: CropManager main command
